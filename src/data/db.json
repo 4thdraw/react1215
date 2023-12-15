@@ -1,0 +1,82 @@
+{
+    "navitable": [
+        {
+            "atext": "네이버",
+            "href": "#none",
+            "d2": [
+                {
+                    "atext": "회사소개",
+                    "href": "/com"
+                },
+                {
+                    "atext": "연혁",
+                    "href": "/history"
+                },
+                {
+                    "atext": "고객센터",
+                    "href": "/board"
+                }
+            ]
+        },
+        {
+            "atext": "네이버",
+            "href": "#none",
+            "d2": [
+                {
+                    "atext": "회사소개",
+                    "href": "/com"
+                },
+                {
+                    "atext": "연혁",
+                    "href": "/history"
+                },
+                {
+                    "atext": "고객센터",
+                    "href": "/board"
+                }
+            ]
+        }
+    ],
+    "tab": [
+        {
+            "tabtext": "공지사항",
+            "tabul": [
+                {
+                    "atext": "축제임박 사전예약실시",
+                    "href": "/board?wr_id=1",
+                    "imgsrc": ""
+                },
+                {
+                    "atext": "박물관 가족 4인 주차무료입장",
+                    "href": "/board?wr_id=1",
+                    "imgsrc": ""
+                },
+                {
+                    "atext": "재래시장 할인권 10%",
+                    "href": "/board?wr_id=1",
+                    "imgsrc": ""
+                }
+            ]
+        },
+        {
+            "tabtext": "갤러리",
+            "tabul": [
+                {
+                    "atext": "축제임박 사전예약실시",
+                    "href": "/board?wr_id=1",
+                    "imgsrc": "/board/imgf.jpg"
+                },
+                {
+                    "atext": "박물관 가족 4인 주차무료입장",
+                    "href": "/board?wr_id=1",
+                    "imgsrc": "/board/imgfamily.jpg"
+                },
+                {
+                    "atext": "재래시장 할인권 10%",
+                    "href": "/board?wr_id=1",
+                    "imgsrc": "/board/mart.png"
+                }
+            ]
+        }
+    ]
+}
