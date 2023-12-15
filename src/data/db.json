@@ -62,17 +62,17 @@
             "tabtext": "갤러리",
             "tabul": [
                 {
-                    "atext": "축제임박 사전예약실시",
+                    "atext": "갤러리 사전예약실시",
                     "href": "/board?wr_id=1",
                     "imgsrc": "/board/imgf.jpg"
                 },
                 {
-                    "atext": "박물관 가족 4인 주차무료입장",
+                    "atext": "갤러리 주차무료입장",
                     "href": "/board?wr_id=1",
                     "imgsrc": "/board/imgfamily.jpg"
                 },
                 {
-                    "atext": "재래시장 할인권 10%",
+                    "atext": "갤러리 할인권 10%",
                     "href": "/board?wr_id=1",
                     "imgsrc": "/board/mart.png"
                 }
